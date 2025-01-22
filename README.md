@@ -1,5 +1,9 @@
 # 💫 About Me:
-🔭 I’m currently working on<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact
+I am a highly motivated and introspective web programmer with a strong foundation in web programming.<br>
+With a natural affinity for problem-solving, I thrive in environments where I can focus on creating elegant, functional, and user-friendly websites and applications.<br>
+As a Cancer, I bring a deeply empathetic and intuitive approach to my work, always striving to create meaningful and thoughtful digital experiences that prioritize the user.<br>
+I take pride in my ability to understand users’ needs and translate them into seamless and accessible interfaces, making technology feel personal and welcoming.<br>
+Being part of Gen Z, I’m not only tech-savvy but also deeply attuned to the importance of digital accessibility, inclusivity, and staying up-to-date with emerging technologies and trends.
 
 
 ## 🌐 Socials:
